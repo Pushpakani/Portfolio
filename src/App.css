@@ -1,0 +1,21 @@
+.gradient-text {
+  background: linear-gradient(to right, #1405ec, #2e9fc2);
+  background-clip: text;
+  color: transparent;
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.img-profile {
+  border-radius: 300px;
+}
+
+.fon {
+  font-size: 50px;
+  color: #1405ec;
+}
+
+.nav-link.active {
+  text-decoration: underline;
+  color: blue
+}
