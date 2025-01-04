@@ -9,4 +9,4 @@ In the project directory, you can run:
 ### `npm start`
 
 VIEW THE PROJECT
-LINK: (portfolio-ndh52yol2-pushpakanis-projects.vercel.app)
+LINK:"portfolio-ndh52yol2-pushpakanis-projects.vercel.app"
